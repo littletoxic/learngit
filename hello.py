@@ -3,4 +3,4 @@
 # @Author: littletoxic
 
 # print hello
-print("hello")
+print(f"hello")  # f means format
